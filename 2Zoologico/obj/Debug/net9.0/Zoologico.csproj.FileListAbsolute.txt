@@ -1,0 +1,14 @@
+C:\Users\guilherme.manoel\Desktop\Zoologico\bin\Debug\net9.0\Zoologico.exe
+C:\Users\guilherme.manoel\Desktop\Zoologico\bin\Debug\net9.0\Zoologico.deps.json
+C:\Users\guilherme.manoel\Desktop\Zoologico\bin\Debug\net9.0\Zoologico.runtimeconfig.json
+C:\Users\guilherme.manoel\Desktop\Zoologico\bin\Debug\net9.0\Zoologico.dll
+C:\Users\guilherme.manoel\Desktop\Zoologico\bin\Debug\net9.0\Zoologico.pdb
+C:\Users\guilherme.manoel\Desktop\Zoologico\obj\Debug\net9.0\Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.manoel\Desktop\Zoologico\obj\Debug\net9.0\Zoologico.AssemblyInfoInputs.cache
+C:\Users\guilherme.manoel\Desktop\Zoologico\obj\Debug\net9.0\Zoologico.AssemblyInfo.cs
+C:\Users\guilherme.manoel\Desktop\Zoologico\obj\Debug\net9.0\Zoologico.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.manoel\Desktop\Zoologico\obj\Debug\net9.0\Zoologico.dll
+C:\Users\guilherme.manoel\Desktop\Zoologico\obj\Debug\net9.0\refint\Zoologico.dll
+C:\Users\guilherme.manoel\Desktop\Zoologico\obj\Debug\net9.0\Zoologico.pdb
+C:\Users\guilherme.manoel\Desktop\Zoologico\obj\Debug\net9.0\Zoologico.genruntimeconfig.cache
+C:\Users\guilherme.manoel\Desktop\Zoologico\obj\Debug\net9.0\ref\Zoologico.dll

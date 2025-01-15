@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <title>Galeria de Imagens</title>
+    <link rel="stylesheet" href="style_galeria.css">
+</head>
+<body>
+    <h1>Minha Galeria de Imagens</h1>
+    <button id="show-gallery">Mostrar Galeria</button>
+    <div id="gallery" class="gallery"></div>
+
+    <script>
+        const MostrarGaleria = () => {
+            const container = document.getElementById('gallery');
+
+            const url_imagens = [
+                'https://via.placeholder.com/150/ff0000/ffffff?text=Pedr%C3%A3oMaluco',
+                'https://via.placeholder.com/150/gg1345/ffffff?text=Oipedrao',
+                'https://via.placeholder.com/150/808000/ffffff?text=pedrapedro',
+                'https://via.placeholder.com/150/363636/ffffff?text=Oipedrao'
+            ];
+
+            container.innerHTML = '';
+
+            url_imagens.forEach(url => {
+                const img = document.createElement('img');
+                img.src = url;
+                img.alt = 'Imagem dinâmica';
+                container.appendChild(img); 
+            });
+        };
+
+        document.getElementById('show-gallery').addEventListener('click', MostrarGaleria);
+    </script>
+
+    <h2>Página Principal</h2>
+    <a href="site.html">Voltar</a>
+
+</body>
+</html>
